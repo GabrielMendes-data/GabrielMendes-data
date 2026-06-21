@@ -95,16 +95,6 @@ Principais funcionalidades:
 
 ---
 
-## 🎯 Atualmente estudando
-
-- Data Platform Engineering
-- Lakehouse Architecture
-- Apache Iceberg
-- Event-Driven Architectures
-- FinOps para ambientes Cloud
-
----
-
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/gabriel-mendes/
