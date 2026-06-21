@@ -82,12 +82,6 @@ Principais funcionalidades:
 - REST APIs
 - Supabase
 
-### Frontend
-
-- React
-- TypeScript
-- Vite
-
 ### DevOps
 
 - GitHub Actions
