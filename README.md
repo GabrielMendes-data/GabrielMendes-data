@@ -1,55 +1,111 @@
 # 👋 Olá, eu sou o Gabriel Mendes
 
-🚀 Engenheiro de Dados focado em construção de pipelines escaláveis e arquitetura de dados em nuvem.  
-☁️ AWS | Python | SQL | PySpark | Terraform | Azure DevOps  
+🚀 Engenheiro de Dados especializado em plataformas analíticas, pipelines escaláveis e produtos orientados a dados.
+
+☁️ AWS | GCP | Python | SQL | PySpark | Terraform | FastAPI
 
 ---
 
 ## 🧠 Sobre mim
 
-Atuo com desenvolvimento de soluções de engenharia de dados voltadas para:
+Atuo no desenvolvimento de soluções de dados de ponta a ponta, desde a ingestão e processamento até a disponibilização de APIs e aplicações para consumo dos dados.
 
-- Construção de pipelines ETL/ELT
-- Arquiteturas serverless na AWS
-- Processamento distribuído com PySpark
-- Data Lakes com particionamento otimizado
+Principais áreas de atuação:
+
+- Engenharia de Dados e Data Platforms
+- Arquiteturas Serverless e Cloud Native
+- ETL/ELT escaláveis
+- APIs para consumo analítico
 - Infraestrutura como Código (Terraform)
-- CI/CD para workloads de dados
+- Automação de Deploy e CI/CD
+- Produtos Data-Driven
 
 ---
 
 ## 🏗️ Projeto em Destaque
 
-### 📊 Ingestão de Dados Públicos da Receita Federal (CNPJ)
+### 📈 Rentabilizando
 
-Pipeline serverless para ingestão e transformação de grandes volumes de dados públicos:
+Plataforma de análise e comparação de investimentos em renda fixa construída sobre uma arquitetura moderna de dados.
 
-- Orquestração com AWS Lambda
-- Processamento containerizado via ECS Fargate
-- Armazenamento em Data Lake (S3 - camada RAW)
-- Controle transacional com DynamoDB
+Principais funcionalidades:
+
+- Simulador de investimentos (CDB, LCI, LCA e Tesouro Direto)
+- Dashboard de indicadores econômicos
+- Histórico de Selic, CDI, IPCA e Dólar
+- Expectativas do Boletim Focus
+- API própria para consulta de dados financeiros
+- Visualização de títulos do Tesouro Direto
+
+### Arquitetura
+
+- Extração automatizada de dados do Banco Central e Tesouro Nacional
+- Processamento incremental de dados
+- Data Warehouse em BigQuery
+- Camadas RAW, Curated e Gold
+- API construída com FastAPI
+- Frontend React + Vite
 - Infraestrutura provisionada com Terraform
-- Deploy automatizado com GitHub Actions
+- Deploy automatizado em Cloud Run
 
-📌 Foco em:
-- Controle de tamanho de arquivos Parquet
-- Escrita otimizada para consultas analíticas
-- Execução sob demanda (redução de custo)
-- Controle idempotente de ingestão
+### Desafios Técnicos
+
+- Pipelines incrementais para grandes séries temporais
+- Modelagem analítica para consultas financeiras
+- Exposição segura via API com autenticação
+- Processamento automatizado de indicadores econômicos
+- Arquitetura orientada a baixo custo operacional
+
+🔗 Projeto: https://rentabilizando.vercel.app/
 
 ---
 
 ## 🛠️ Stack Principal
 
-- **Linguagens:** Python, SQL
-- **Processamento:** PySpark, PyArrow
-- **Cloud:** AWS (Lambda, ECS, S3, DynamoDB, ECR)
-- **Infraestrutura:** Terraform
-- **DevOps:** GitHub Actions, Azure DevOps
-- **Dados:** Parquet, particionamento por data
+### Dados
+
+- Python
+- SQL
+- PySpark
+- Pandas
+- PyArrow
+
+### Cloud & Infra
+
+- AWS
+- GCP
+- Terraform
+- Docker
+
+### Backend
+
+- FastAPI
+- REST APIs
+- Supabase
+
+### Frontend
+
+- React
+- TypeScript
+- Vite
+
+### DevOps
+
+- GitHub Actions
+- Azure DevOps
+
+---
+
+## 🎯 Atualmente estudando
+
+- Data Platform Engineering
+- Lakehouse Architecture
+- Apache Iceberg
+- Event-Driven Architectures
+- FinOps para ambientes Cloud
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/gabriel-mendes/
+- LinkedIn: www.linkedin.com/in/gabriel-mendes/
