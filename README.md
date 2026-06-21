@@ -18,7 +18,6 @@ Principais áreas de atuação:
 - APIs para consumo analítico
 - Infraestrutura como Código (Terraform)
 - Automação de Deploy e CI/CD
-- Produtos Data-Driven
 
 ---
 
